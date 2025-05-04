@@ -1,0 +1,52 @@
+{
+  "apple": {
+    "Food Basics": 0.99,
+    "Loblaws": 1.29,
+    "No Frills": 0.89
+  },
+  "banana": {
+    "Food Basics": 0.59,
+    "Loblaws": 0.79,
+    "No Frills": 0.55
+  },
+  "chicken breast (1lb)": {
+    "Food Basics": 7.49,
+    "Loblaws": 8.29,
+    "Walmart": 6.99
+  },
+  "eggs (dozen)": {
+    "Food Basics": 3.19,
+    "Loblaws": 3.99,
+    "No Frills": 3.10
+  },
+  "whole wheat bread": {
+    "Food Basics": 2.49,
+    "Loblaws": 2.89,
+    "No Frills": 2.29
+  },
+  "almond milk": {
+    "Food Basics": 3.49,
+    "Loblaws": 3.89,
+    "Walmart": 3.29
+  },
+  "spinach (bag)": {
+    "Food Basics": 2.99,
+    "Loblaws": 3.49,
+    "No Frills": 2.89
+  },
+  "avocado": {
+    "Food Basics": 1.49,
+    "Loblaws": 1.99,
+    "No Frills": 1.39
+  },
+  "salmon filet (1lb)": {
+    "Food Basics": 9.99,
+    "Loblaws": 10.99,
+    "Walmart": 9.49
+  },
+  "greek yogurt (500g)": {
+    "Food Basics": 4.29,
+    "Loblaws": 4.99,
+    "No Frills": 4.19
+  }
+}
